@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  padding-block: 24px;
+  gap: 24px;
+}
+
+main img {
+  width: 286px;
+  width: 286px;
+  object-fit: cover;
+}
+
